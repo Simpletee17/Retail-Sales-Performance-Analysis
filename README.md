@@ -40,13 +40,13 @@ TotalSales = Quantity × UnitPrice
 
 # Power BI Dashboard
 
-![Power BI Dashboard](Dashboard%20Screenshots/PowerBI_Dashboard.png)
+![Power BI Dashboard](Dataset/Dashboard%20Screenshots/PowerBI_Dashboard.png)
 
 ---
 
 # Excel Dashboard
 
-![Excel Dashboard](Dashboard%20Screenshots/Excel_Dashboard.png)
+![Excel Dashboard](Dataset/Dashboard%20Screenshots/Excel_Dashboard.png)
 
 ---
 
@@ -77,7 +77,7 @@ TotalSales = Quantity × UnitPrice
 
 ### Top Customers
 
-![Top Customers](SQL%20Screenshots/Top_Customers.png)
+![Top Customers](Dataset/SQL%20Screenshots/Top_Customers.png)
 
 ### Monthly Sales
 
