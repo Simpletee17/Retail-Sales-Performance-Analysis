@@ -77,15 +77,19 @@ TotalSales = Quantity × UnitPrice
 
 ### Top Customers
 
-![Top Customers](Dataset/SQL%20Screenshots/Top_Customers.png)
+![Top Customers](Dataset/Dashboard%20Screenshots/SQL%20Screenshots/Top_Customers.png)
 
 ### Monthly Sales
 
-![Monthly Sales](SQL%20Screenshots/Monthly_Sales.png)
+![Monthly Sales](Dataset/Dashboard%20Screenshots/SQL%20Screenshots/Monthly_Sales.png)
 
 ### Revenue by Product
 
-![Revenue By Product](SQL%20Screenshots/Revenue_By_Product.png)
+![Revenue By Product](Dataset/Dashboard%20Screenshots/SQL%20Screenshots/Revenue_By_Product.png)
+
+### Highest Selling Product
+
+![Highest Selling Product](Dataset/Dashboard%20Screenshots/SQL%20Screenshots/Highest_Selling_Product.png)
 
 ---
 
