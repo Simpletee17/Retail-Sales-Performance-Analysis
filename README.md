@@ -1,5 +1,17 @@
 # Retail Sales Performance Analysis
 
+## Project Summary
+
+This project analyzes retail sales transactions to uncover product performance, regional sales trends, and customer purchasing behavior.
+
+Using Excel, SQL Server, and Power BI, I transformed raw sales data into actionable business insights and developed an interactive dashboard for decision-making.
+
+---
+
+# Power BI Dashboard
+
+![Power BI Dashboard](Dataset/Dashboard%20Screenshots/PowerBI_Dashboard.png)
+
 ## Project Overview
 
 This project analyzes retail sales data using Excel, SQL Server, and Power BI.
@@ -36,11 +48,7 @@ A calculated revenue field was created:
 
 TotalSales = Quantity × UnitPrice
 
----
 
-# Power BI Dashboard
-
-![Power BI Dashboard](Dataset/Dashboard%20Screenshots/PowerBI_Dashboard.png)
 
 ---
 
@@ -124,15 +132,29 @@ Power BI File/
 
 ---
 
-## Skills Demonstrated
+## Technical Skills Demonstrated
 
-- Data Cleaning
-- Data Analysis
-- Pivot Tables
-- SQL Querying
-- Data Visualization
-- Dashboard Design
-- Business Intelligence
+- Microsoft Excel
+  - Pivot Tables
+  - Data Cleaning
+  - Revenue Analysis
+
+- SQL Server
+  - Aggregations
+  - GROUP BY
+  - Sorting and Filtering
+  - Business Query Development
+
+- Power BI
+  - DAX Measures
+  - KPI Cards
+  - Interactive Dashboards
+  - Data Visualization
+
+- Business Analysis
+  - Sales Performance Analysis
+  - Customer Analysis
+  - Regional Performance Analysis
 
 ---
 
